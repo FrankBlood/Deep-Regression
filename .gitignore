@@ -1,3 +1,15 @@
+# Other need to be added
+*.hdf5
+*.h5
+*log/
+*result/
+*tensorboard/
+data/
+hxx/
+new_data/
+txt/
+model/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
